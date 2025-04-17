@@ -1,2 +1,3 @@
-# applied-statistics
-Solutions of homeworks for the ITMO CT course "Applied Statistics"
+# Прикладная статистика
+
+Решения домашних заданий по курсу ИТМО КТ "Прикладная статистика"
